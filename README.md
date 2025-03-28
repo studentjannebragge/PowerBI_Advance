@@ -13,12 +13,7 @@ Julkaista Power BI Desktop -tiedostoja Power BI -raporttipalvelimeen (Power BI R
 
 ## Projekti
 
-
-![Kuvan kuvaus](Raportti.jpg)
-
-
-
-## Projektin Kuvaus: Data-alan Ammattilaisten Kyselydatan Analyysi ja Visualisointi
+Kyselytutkimus Data-ammattilaisille
 
 ### Tiivistelmä
 
@@ -29,7 +24,7 @@ Tässä projektissa toteutettiin kattava analyysi data-alan ammattilaisille suun
 
 Projektin Vaiheet
 
-Datan Keräys ja Esikäsittely:
+Datan keräys ja esikäsittely:
 
 Projekti alkoi kyselydatan vastaanottamisella. Raakadata sisälti vastauksia 630 data-alan ammattilaiselta (perustuen esimerkkikuvaan).
 
