@@ -49,7 +49,4 @@ Vastaajien keski-iästä ja maantieteellisestä sijoittumisesta.
 Tämä raportti toimii hyödyllisenä työkaluna esimerkiksi rekrytoinnin tukena, palkkavertailussa, koulutustarpeiden tunnistamisessa ja yleisesti alan trendien ymmärtämisessä.
 
 
-https://app.powerbi.com/reportEmbed?reportId=02e479c9-dfbc-4392-ba7c-372c66b45d1b&autoAuth=true&ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee
-
-https://app.powerbi.com/links/p2QiMUFSF0?ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee&pbi_source=linkShare
 
