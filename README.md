@@ -51,5 +51,3 @@ Tämä raportti toimii hyödyllisenä työkaluna esimerkiksi rekrytoinnin tukena
 
 https://app.powerbi.com/reportEmbed?reportId=02e479c9-dfbc-4392-ba7c-372c66b45d1b&autoAuth=true&ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee
 
-
-<iframe title="Project_DataProfessionalsSurvey" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=02e479c9-dfbc-4392-ba7c-372c66b45d1b&autoAuth=true&ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee" frameborder="0" allowFullScreen="true"></iframe>
